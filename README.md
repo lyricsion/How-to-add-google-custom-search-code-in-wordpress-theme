@@ -1,0 +1,2 @@
+# How-to-add-google-custom-search-code-in-wordpress-theme
+I am a using a wordpress Theme. As ususal people formet the searchform.php and inseart the google custom search code for better seach result of wordpress blog. But the theme i use theme author not give searchform.php file in theme. But instead of searchform.php i found lyrics-search.php file. I have lyrics related theme. So please anyone help to tell me where should i have to put Google csc i lyrics-search.php file.
